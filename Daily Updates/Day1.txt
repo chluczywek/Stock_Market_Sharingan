@@ -1,0 +1,17 @@
+Day 1
+Time: 1 hour
+
+Research:
+- Numerai Models: https://github.com/numerai/docs/blob/master/numerai-tournament/models.md#benchmark-models
+- Models use in Renaissance Tech: https://acontinuallearner.medium.com/uncovering-the-mathematics-behind-the-worlds-most-profitable-hedge-fund-79770d772997
+- Neural Networks and Stock Market: https://medium.com/@zhonghong9998/how-neural-networks-can-enhance-stock-market-predictions-10fe42033a80
+- Stock Forecasting Models based on Neural Networks: https://www.sciencedirect.com/science/article/pii/S1566253524003944
+
+
+
+Challenges and Considerations
+While neural networks offer significant advantages, they come with challenges. It’s essential to carefully tune the model’s parameters and hyperparameters (like learning rate, batch size, etc.).
+Additionally, stock market data can be noisy and prone to overfitting — where the model learns patterns in the training data too well but fails to generalize for unseen data.
+Other challenges include:
+Data Quality: Stock data is often noisy. Preprocessing becomes crucial to remove outliers and irrelevant features.
+Computational Resources: Neural networks, especially deep ones, require significant computational power. Training large models can be time-consuming and costly.
