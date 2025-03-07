@@ -1,0 +1,9 @@
+Day 2
+Time: 1 hour
+
+Goals:
+- Find data source
+- Analyze data
+- Code Refresher
+
+Colab Notebook - https://colab.research.google.com/drive/1r0s8ctVLJkoaCITkI8A8IqRcdRK3mKij?usp=sharing
