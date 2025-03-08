@@ -1,0 +1,15 @@
+Day 3
+Time: 1 hour
+Date: 3/7/2025
+
+Goal:
+- Pull numbers or ways to analyze Financial statements
+- Summarize financial statements
+
+Findings:
+- Annual 10-K
+- Fact Sect
+- Balance Sheet
+- Income Statement
+- Cash Flow
+- Interactive Data in https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JPM&type=10-K&dateb=&owner=exclude&count=100
