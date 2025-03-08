@@ -1,5 +1,6 @@
 Day 1
 Time: 1 hour
+Date: 3/5/2025
 
 Research:
 - Numerai Models: https://github.com/numerai/docs/blob/master/numerai-tournament/models.md#benchmark-models
